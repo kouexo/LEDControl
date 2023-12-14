@@ -1,0 +1,2 @@
+# LEDControl
+Adafruit_NeoPixelライブラリを使用した自作関数ライブラリです。
